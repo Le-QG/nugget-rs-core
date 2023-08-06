@@ -1,1 +1,14 @@
-{"custom.ready_set_go":{"category":"master","sounds":["custom/ready_set_go"]}}
+{
+    "custom.ready_set_go": {
+        "category": "master",
+        "sounds": [
+            "custom/ready_set_go"
+        ]
+    },
+    "custom.intro_crowd_cheering": {
+        "category": "master",
+        "sounds": [
+            "custom/intro_crowd_cheering"
+        ]
+    }
+}
