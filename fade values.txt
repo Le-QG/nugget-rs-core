@@ -1,0 +1,15 @@
+(Thanks u/GalSergey)
+
+Full black screen
+title @s title {"text":"\u0100","font":"filter:default","color":"black"}
+
+\u0010 - 10%
+\u0020 - 20%
+\u0030 - 30%
+\u0040 - 40%
+\u0050 - 50%
+\u0060 - 60%
+\u0070 - 70%
+\u0080 - 80%
+\u0090 - 90%
+\u0100 - 100%
