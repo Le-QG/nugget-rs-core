@@ -10,5 +10,11 @@
         "sounds": [
             "custom/intro_crowd_cheering"
         ]
+    },
+    "custom.intro_ear_white_noise": {
+        "category": "master",
+        "sounds": [
+            "custom/intro_ear_white_noise"
+        ]
     }
 }
