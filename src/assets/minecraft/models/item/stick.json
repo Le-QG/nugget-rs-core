@@ -38,5 +38,15 @@
             "custom_model_data": 7
         },
         "model": "item/custom/gashapon_station"
+    }, {
+        "predicate": {
+            "custom_model_data": 8
+        },
+        "model": "item/custom/qg_graffiti"
+    }, {
+        "predicate": {
+            "custom_model_data": 9
+        },
+        "model": "item/custom/nugget_graffiti"
     }]
 }
