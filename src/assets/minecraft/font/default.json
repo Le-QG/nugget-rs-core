@@ -1,0 +1,11 @@
+{
+    "providers": [{
+        "type": "bitmap",
+        "file": "minecraft:font/title.png",
+        "height": 72,
+        "ascent": 33,
+        "chars": [
+            "\uE000"
+        ]
+    }]
+}
