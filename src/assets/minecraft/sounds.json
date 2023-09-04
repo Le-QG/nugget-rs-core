@@ -1,20 +1,26 @@
 {
     "custom.ready_set_go": {
-        "category": "master",
+        "category": "voice",
         "sounds": [
             "custom/ready_set_go"
         ]
     },
     "custom.intro_crowd_cheering": {
-        "category": "master",
+        "category": "voice",
         "sounds": [
             "custom/intro_crowd_cheering"
         ]
     },
     "custom.intro_ear_white_noise": {
-        "category": "master",
+        "category": "voice",
         "sounds": [
             "custom/intro_ear_white_noise"
+        ]
+    },
+    "custom.ui_click": {
+        "category": "voice",
+        "sounds": [
+            "custom/ui_click"
         ]
     }
 }
