@@ -47,6 +47,21 @@
         "predicate": {
             "custom_model_data": 9
         },
-        "model": "item/custom/nugget_graffiti"
+        "model": "item/custom/woolwars"
+    }, {
+        "predicate": {
+            "custom_model_data": 10
+        },
+        "model": "item/custom/skywars"
+    }, {
+        "predicate": {
+            "custom_model_data": 11
+        },
+        "model": "item/custom/deathswap"
+    }, {
+        "predicate": {
+            "custom_model_data": 12
+        },
+        "model": "item/custom/survival"
     }]
 }

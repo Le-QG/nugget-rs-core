@@ -7,5 +7,45 @@
         "chars": [
             "\uE000"
         ]
+    }, {
+        "type": "bitmap",
+        "file": "minecraft:item/nugget.png",
+        "height": 8,
+        "ascent": 8,
+        "chars": [
+            "\uE001"
+        ]
+    }, {
+        "type": "bitmap",
+        "file": "minecraft:item/woolwars.png",
+        "height": 8,
+        "ascent": 8,
+        "chars": [
+            "\uE002"
+        ]
+    }, {
+        "type": "bitmap",
+        "file": "minecraft:item/skywars.png",
+        "height": 8,
+        "ascent": 8,
+        "chars": [
+            "\uE003"
+        ]
+    }, {
+        "type": "bitmap",
+        "file": "minecraft:item/deathswap.png",
+        "height": 8,
+        "ascent": 8,
+        "chars": [
+            "\uE004"
+        ]
+    }, {
+        "type": "bitmap",
+        "file": "minecraft:item/death.png",
+        "height": 8,
+        "ascent": 8,
+        "chars": [
+            "\uE005"
+        ]
     }]
 }
