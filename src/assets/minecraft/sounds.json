@@ -1,26 +1,38 @@
 {
-    "custom.ready_set_go": {
-        "category": "voice",
-        "sounds": [
-            "custom/ready_set_go"
-        ]
-    },
-    "custom.intro_crowd_cheering": {
-        "category": "voice",
-        "sounds": [
-            "custom/intro_crowd_cheering"
-        ]
-    },
-    "custom.intro_ear_white_noise": {
-        "category": "voice",
-        "sounds": [
-            "custom/intro_ear_white_noise"
-        ]
-    },
-    "custom.ui_click": {
-        "category": "voice",
-        "sounds": [
-            "custom/ui_click"
-        ]
-    }
+  "custom.ready_set_go": {
+    "category": "voice",
+    "sounds": ["custom/ready_set_go"]
+  },
+  "custom.intro_crowd_cheering": {
+    "category": "voice",
+    "sounds": ["custom/intro_crowd_cheering"]
+  },
+  "custom.intro_ear_white_noise": {
+    "category": "voice",
+    "sounds": ["custom/intro_ear_white_noise"]
+  },
+  "custom.ui_click": {
+    "category": "voice",
+    "sounds": ["custom/ui_click"]
+  },
+  "custom.launch_pad": {
+    "category": "voice",
+    "sounds": ["custom/launch_pad"]
+  },
+  "custom.jump_pad": {
+    "category": "voice",
+    "sounds": ["custom/jump_pad"]
+  },
+  "custom.scoreboard_cheer": {
+    "category": "voice",
+    "sounds": ["custom/scoreboard_cheer"]
+  },
+  "custom.race_gate_open": {
+    "category": "voice",
+    "sounds": ["custom/race_gate_open"]
+  },
+  "custom.coin": {
+    "category": "voice",
+    "sounds": ["custom/coin"]
+  }
 }
