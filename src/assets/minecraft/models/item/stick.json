@@ -1,67 +1,86 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/stick"
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/custom/fruit_basket"
     },
-    "overrides": [{
-        "predicate": {
-            "custom_model_data": 1
-        },
-        "model": "item/custom/fruit_basket"
-    }, {
-        "predicate": {
-            "custom_model_data": 2
-        },
-        "model": "item/custom/pink_umbrella"
-    }, {
-        "predicate": {
-            "custom_model_data": 3
-        },
-        "model": "item/custom/red_umbrella"
-    }, {
-        "predicate": {
-            "custom_model_data": 4
-        },
-        "model": "item/custom/yellow_umbrella"
-    }, {
-        "predicate": {
-            "custom_model_data": 5
-        },
-        "model": "item/custom/cyan_umbrella"
-    }, {
-        "predicate": {
-            "custom_model_data": 6
-        },
-        "model": "item/custom/arcade_station"
-    }, {
-        "predicate": {
-            "custom_model_data": 7
-        },
-        "model": "item/custom/gashapon_station"
-    }, {
-        "predicate": {
-            "custom_model_data": 8
-        },
-        "model": "item/custom/qg_graffiti"
-    }, {
-        "predicate": {
-            "custom_model_data": 9
-        },
-        "model": "item/custom/woolwars"
-    }, {
-        "predicate": {
-            "custom_model_data": 10
-        },
-        "model": "item/custom/skywars"
-    }, {
-        "predicate": {
-            "custom_model_data": 11
-        },
-        "model": "item/custom/deathswap"
-    }, {
-        "predicate": {
-            "custom_model_data": 12
-        },
-        "model": "item/custom/survival"
-    }]
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/custom/pink_umbrella"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/custom/red_umbrella"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/custom/yellow_umbrella"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/custom/cyan_umbrella"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/custom/arcade_station"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/custom/gashapon_station"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/custom/qg_graffiti"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/custom/woolwars"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/custom/skywars"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/custom/deathswap"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/custom/survival"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/custom/fastrace"
+    }
+  ]
 }
