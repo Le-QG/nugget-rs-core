@@ -34,5 +34,9 @@
   "custom.coin": {
     "category": "voice",
     "sounds": ["custom/coin"]
+  },
+  "custom.race_end": {
+    "category": "voice",
+    "sounds": ["custom/race_end"]
   }
 }
