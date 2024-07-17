@@ -81,6 +81,12 @@
         "custom_model_data": 13
       },
       "model": "item/custom/fastrace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/custom/nugget_graffiti"
     }
   ]
 }
