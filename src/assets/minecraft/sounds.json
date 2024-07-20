@@ -42,5 +42,9 @@
   "custom.wooosh": {
     "category": "voice",
     "sounds": ["custom/wooosh"]
+  },
+  "custom._": {
+    "category": "voice",
+    "sounds": ["custom/_"]
   }
 }
