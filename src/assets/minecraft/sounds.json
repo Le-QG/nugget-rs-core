@@ -38,5 +38,9 @@
   "custom.race_end": {
     "category": "voice",
     "sounds": ["custom/race_end"]
+  },
+  "custom.wooosh": {
+    "category": "voice",
+    "sounds": ["custom/wooosh"]
   }
 }
