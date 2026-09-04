@@ -11,6 +11,10 @@
     "category": "voice",
     "sounds": ["custom/bigcoins"]
   },
+  "custom.music_game_end": {
+    "category": "voice",
+    "sounds": ["custom/music_game_end"]
+  },
   "custom.game_starting": {
     "category": "voice",
     "sounds": ["custom/game_starting"]
