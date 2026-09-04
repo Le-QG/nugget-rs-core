@@ -3,6 +3,14 @@
     "category": "voice",
     "sounds": ["custom/ready_set_go"]
   },
+  "custom.smallcoins": {
+    "category": "voice",
+    "sounds": ["custom/smallcoins"]
+  },
+  "custom.bigcoins": {
+    "category": "voice",
+    "sounds": ["custom/bigcoins"]
+  },
   "custom.game_starting": {
     "category": "voice",
     "sounds": ["custom/game_starting"]
