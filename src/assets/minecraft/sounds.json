@@ -15,6 +15,10 @@
     "category": "voice",
     "sounds": ["custom/music_game_end"]
   },
+  "custom.scoreacquired": {
+    "category": "voice",
+    "sounds": ["custom/scoreacquired"]
+  },
   "custom.game_starting": {
     "category": "voice",
     "sounds": ["custom/game_starting"]
