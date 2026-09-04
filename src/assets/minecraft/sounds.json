@@ -3,6 +3,14 @@
     "category": "voice",
     "sounds": ["custom/ready_set_go"]
   },
+  "custom.game_starting": {
+    "category": "voice",
+    "sounds": ["custom/game_starting"]
+  },
+  "custom.game_starting_in_game": {
+    "category": "voice",
+    "sounds": ["custom/game_starting_in_game"]
+  },
   "custom.intro_crowd_cheering": {
     "category": "voice",
     "sounds": ["custom/intro_crowd_cheering"]
