@@ -48,6 +48,27 @@
       "height": 8,
       "ascent": 8,
       "chars": ["\uE006"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/burrito.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": ["\uE007"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/purple_burrito.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": ["\uE008"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/yellow_nugget.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": ["\uE009"]
     }
   ]
 }
