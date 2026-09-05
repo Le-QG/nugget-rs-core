@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/purple_burrito",
+    "particle": "item/purple_burrito"
+  }
+}
