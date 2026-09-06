@@ -69,6 +69,13 @@
       "height": 8,
       "ascent": 8,
       "chars": ["\uE009"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/parkour_warrior.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": ["\uE00A"]
     }
   ]
 }
