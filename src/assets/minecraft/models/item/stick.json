@@ -111,6 +111,12 @@
         "custom_model_data": 18
       },
       "model": "item/custom/parkour_warrior"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "item/custom/parkour_tzg"
     }
   ]
 }

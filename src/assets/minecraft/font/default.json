@@ -76,6 +76,13 @@
       "height": 8,
       "ascent": 8,
       "chars": ["\uE00A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/parkour_tzg.png",
+      "height": 8,
+      "ascent": 8,
+      "chars": ["\uE00B"]
     }
   ]
 }
