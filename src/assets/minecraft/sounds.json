@@ -1,4 +1,14 @@
 {
+  "custom.song_intro": {
+    "category": "master",
+    "stream": true,
+    "sounds": ["custom/song_intro"]
+  },
+  "custom.song_game_select": {
+    "category": "master",
+    "stream": true,
+    "sounds": ["custom/song_game_select"]
+  },
   "custom.ready_set_go": {
     "category": "voice",
     "sounds": ["custom/ready_set_go"]
